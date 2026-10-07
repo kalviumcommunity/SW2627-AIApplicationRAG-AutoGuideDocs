@@ -6,7 +6,7 @@ It uses Retrieval-Augmented Generation (RAG) to retrieve relevant information fr
 
 ## Problem
 
-Automotive repair information is often spread across different manuals, service bulletins, recall notices, and regional documents. This can lead to technicians receiving inconsistent or outdated guidance.
+An automotive company keeps repair manuals, recall notices, and diagnostic guides across regions, but service centers give inconsistent guidance because no system retrieves the model-specific, up-to-date instruction.
 
 AutoGuide provides a single, vehicle-specific source of technical information.
 
